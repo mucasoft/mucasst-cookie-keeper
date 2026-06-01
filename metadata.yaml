@@ -1,5 +1,5 @@
 homepage: "https://mucasoft.com"
 documentation: "https://mucasoft.com/docs"
 versions:
-  - sha: "1"
+  - sha: "225920eb47309ca99b7c142ae9cfb7e203e5526e"
     changeNotes: "Initial release of MucaSST Cookie Keeper"
